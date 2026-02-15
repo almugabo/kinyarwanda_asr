@@ -1,0 +1,83 @@
+WER: 0.1781
+CER: 0.0435
+#############################
+Ref:  Igikoresho cyifashishwa n'abaganga bavura amagufwa ndetse n'imvune mu gihe barimo kuvura abarwayi bagize imvune zo mu ivi. Aho iki gikoresho bacyambikwa kugira ngo kibafashe gukanda ndetse no gusubiranya amagufwa n'imikaya byagize ikibazo igihe umuntu agize imvune. Ibi bikagaragaza iterambere mu buvuzi aho ibikoresho bigezweho bikoreshwa mu kunoza iyi serivisi.
+
+Pred: Igikoresho cyifashishwa n'abaganga bavura amagufwa ndetse n'imvune mu gihe barimo kuvura abarwayi bagize imvune zo mu ivi, aho iki gikoresho cyandikwa kugira ngo kibafashe gukanda ndetse no gusubiranya amagufwa n'ibikaya byagize ikibazo igihe umuntu ageze imvune, ibikagaragaza iterambere mu buvuzi, aho ibikoresho byizweho bikoreshwa mu kunoza iyi serivisi.
+--------
+Ref:  Umugore wambaye agapira k'umukara imbere ye hicaye undi wambaye ishati y'umutuku ndetse n'iy'umweru ari kumwambika agakoresho ku kuboko kifashishwa mu kumenya umuvuduko w'amaraso, imbere yabo hari ameza manini ateretseho indangururamajwi hirya yabo hari abandi bantu bari kubareba.
+
+Pred: Umugore wambaye agapira k'umukara imbere ye hicaye undi wambaye ishati y'umutuku ndetse n'iy'umweru ari kumwambika agakoresho kukuboko kifashwa mu kumenya umuvuduko w'amaraso imbere yabo hari ameza manini ateretseho indangururamajwi hirya yabo hari abandi bantu bari kubareba.
+--------
+Ref:  Hari amwe mu mavuta akorwa mu bimera bitandukanye, twavuga nk'igikakarubamba, bifite ubushobozi bwo kuvura indwara zigiye zitandukanye, cyane cyane indwara zikunze kwibasira uruhu rwa muntu.
+
+Pred: Hari amwe mu mavuta akorwa mu bimera bitandukanye twavuga igikakarubamba bifite ubushobozi bwo kuvura indwara zigiye zitandukanye, cyane cyane indwara zikunze kwibasira uruhu rwa muntu.
+--------
+Ref:  Isoko, isoko ubona  ribicuruzwamo ibintu byinshi bitandukanye, aho hagaragaramo ibikapu ndetse n'imyenda y'abagabo ndetse n'abagore, kandi bikagaragara ko harimo umukobwa ndetse n'umugabo, bikaba bigaragara ko uwo mukobwa ari kugura ibyo yaje kureba mu isoko, ndetse umugabo akaba acuruje
+
+Pred: Isoko, isoko ubonako ricururizwemo ibintu byinshi bitandukanye, aho hagaragaramo ibikapu ndetse n'imyenda y'abagabo ndetse n'abagore, kandi bikagaragara ko harimo umukobwa ndetse n'umugabo, bikaba bigaragara ko uwo mukobwa ari kugura ibyo yaje kurahwa mu isoko ndetse umugabo akaba acuruje.
+--------
+Ref:  Uru ni urubuga rukoresha uburyo bw'ikoranabuhanga ruzwi ku izina rya I gura, aho ushobora kuba wahahira ibikoresho bigiye bitandukanye, yaba imyambaro, yaba ibikoresho by'ikoranabuhanga n'ibindi bigiye bitandukanye hifashishijwe uburyo bw'ikoranabuhanga. 
+
+Pred: Uru ni urubuga rukoresha uburyo bw'ikoranabuhanga rwuzwi ku izina rya igura, aho ushobora kuba wahahira ibikoresho bigiye bitandukanye yaba imyambaro, yaba ibikoresho by'ikoranabuhanga n'ibindi bigiye bitandukanye hifashishijwe uburyo bw'ikoranabuhanga.
+--------
+Ref:  Inyubako nini irimo ibikoresho byinshi byo kwa muganga, harimo ibitanda, intebe, ameza n'amarido y'umweru, ibyo byose byifashishwa bari mu kwita ku babagana, babafasha ku burwayi bashobora kuba  bafite ubwo aribwo bwose.
+
+Pred: Inyubako nini irimo ibikoresho byinshi byo kwa muganga, harimo ibitanda, intebe, ameza, amarido y'umweru, ibyo byose byifashishwa barimo kwita ku babagana, babafasha ku burwayi bashobora kuba bafite ubwari bw'umwose.
+--------
+Ref:  Inyubako irimo amatageri meza amanitseho amatapi yo kurambika hasi neza y'amabara atandukanye arimo ayafite amabara ajya gusa umweru, ajya gusa umutuku, ajya gusa ubururu ni amabara menshi agiye avangavanze kandi meza.
+
+Pred: Inyubako irimo amatajeri meza amanitseho amapi yo korambika hasi meza y'amabara atandukanye, harimo ayafite amabara ajya gusa umweru, ajya gusa umutuku, ajya gusa ubururu, ni amabara micage y'avanga wambaye kandi meza.
+--------
+Ref:  Kugira ibikorwa bihuza abantu bakuze benshi, bo mu kigero cy'imyaka imwe, bakungurana ibitekerezo, bakishimana, buri wese akagaragaza amarangamutima ye, ni byiza cyane kuko bituma ubuzima bwabo bukomeza kugenda neza, kandi bagafashanya kwiteza imbere.
+
+Pred: Kugira ibikorwa bihuza abantu bakuze benshi bo mu Kigali cy'imyaka imwe bakungurana ibitekerezo bakwishimana, buri wese akagaragaza amarangamutima ye, ni byiza cyane kuko bituma ubuzima bwabo bukomeza kugenda neza kandi bagafashanya kwiteza imbere.
+--------
+Ref:  Umuganga wabihuguriwe mu bijyanye n'ubuzima bw'amenyo, hari umwana waje kwivuza kugira ngo barebe ko amenyo ye adafite ikibazo, mu gihe basanze hari arwaye bayakuremo kugira ngo hirindwe kwanduza andi cyangwa se abashe guhabwa imiti iyoroshya. 
+
+Pred: Umuganga wabihuguriwe bijyanye n'ubuzima bw'amenyo, hari umwana waje kwivuza kugira ngo barebe ko amenyo ye adafite ikibazo mu gihe basanze hari arwaye bayakuremo kugira ngo herindwe kwanduza andi cyangwa se abashe guhabwa imiti yoroshye.
+--------
+Ref:  Iri ni iduka ricuruza imyambaro igiye itandukanye; harimo amakoti yo kwifubika, amakoti yo kujyana ku kazi, amashati, imipira ndetse n'ibindi by'ubwoko bwinshi; aho babikugezaho cyangwa ukaza guhaha muri iryo duka.
+
+Pred: Iri ni iduka ricuruza imyambaro igiye itandukanye, harimo amakoti yo kwifubika, amakoti yo kujyana ku kazi, amashati, imipira ndetse n'ibindi by'ubwoko bwinshi, aho babikugezaho cyangwa ukaza guha aha muri iryo duka.
+--------
+Ref:  Umubyeyi wikoreye indobo, ufite iyindi mu ntoki, ukenyeye igitenge, wambaye ishati y'amaboko magufiya, witeze igitambaro, urimo kwerekeza ahantu hari ibiti kandi harimo n'abantu, hari n'agatanda kahubatse.
+
+Pred: Umubyeyi wikorera indabo ufite indi mu ntoki, ukeneye gitenge, wambaye ishati y'amaboko magufiya, witeze igitambaro urimo kwerekeza ahantu hari ibiti kandi harimo n'abantu, hari n'agatanda kahubatse.
+--------
+Ref:  Iyi ni imodoka igurishwa; iyi modoka ikaba yitwa meresedesi benzi, iragurishwa kandi ikagurishwa kuri miliyoni makumyabiri n'eshatu zonyine, bivuze ngo ni amafaranga make nawe ukeneye imodoka nziza waza ukayigurira.
+
+Pred: Iyi ni imodoka igurishwa, iyi modoka ikaba yitwa Mercedes Benz, iragurishwa kandi ikagurishwa kuri miliyoni makumyabiri n'eshatu z'onyine, bivuze ngo ni amafaranga make ntabwo ukeneye imodoka nziza wazukaye yigurira.
+--------
+Ref:  Uru ni urubuga rukorera kuri murandasi ndetse n'ikoranabuhanga rugufasha kohereza, kwakira amafaranga aturutse mu mahanga bitagusabye kuva aho uherereye cyangwa gukora ingendo utateguye.
+
+Pred: Uru ni urubuga rukorera kuri murandasi ndetse n'ikoranabuhanga rugufasha kohereza kwakira amafaranga aturutse mu mahanga bitagusabye kuva aho uherereye cyangwa gukora ingendo utateguye.
+--------
+Ref:  Abanyabuzima bafite amakayi ndetse bambaye n'amataburiya abaranga, bafite amakaramu ndetse biragaragara ko bari mu nama kuko bicaye bakurikiye.
+
+Pred: Abanyabuzima bafite amakayi ndetse bambaye n'amataburiya baranga, bafite amakaramu ndetse biragaragara ko bari mu nama kuko bicaye bakurikiye.
+--------
+Ref:  Icyumba cy'inama kirimo intebe, ameza biteye birebana n'impapuro zirambitse ku meza, n'amazi yo kunywa arambitse ku meza n'insakazamajwi, n'insakazamashusho, n'amatara yaka menshi.
+
+Pred: Icyumba kinini, akirimo intebe, ameza biteye ibirebana, n'impapuro zirambitse ku meza, n'amazi yo kunywa arambitse ku meza, n'insakazamajwi, n'insakazamashusho, n'amatara yaka menshi.
+--------
+Ref:  Umwana mutoya w'uruhinja amanitse ku munzani, barimo baramupima ibiro kuko nibyo byerekana ubuzima bw'umwana, umubyeyi arahagaze ari kumureba yambaye ishati ifite ibara risa umweru.
+
+Pred: Umwana mutoya uruhinja amanitse ku munzani barimo baramupima ibiro kuko n'ibyo byerekana ubuzima bw'umwana, umubyeyi arahagaze ari kureba yambaye ishati ifite ibara risa umweru.
+--------
+Ref:  Tugane ikigo cy'ubwishingizi cya ariyanse, ubu kirakorera mu Rwanda, ni ngombwa y'uko dushinganisha ibyacu kugira ngo nihabaho igihe byahuye n'impanuka, tuzabone ikitugoboka.
+
+Pred: Tugane ikigo cy'ubwishingizi cya Allianz, ubukira akorera mu Rwanda ni ngombwa y'uko dusenganesha ibyacu kugira ngo nihabaho igihe byahuye n'impanuka tuzabone ikitugoboka.
+--------
+Ref:  Umugore ufite ikivomesho agiteze ku mugezi amazi ari kumanuka ajyamo, iruhande rwe hari abana babiri bakiri batoya bareba uko bigenda.
+
+Pred: Umugore ufite icivomesho agiteze ku mugezi amazi ari kumanuka ajyamo, iruhande rwe hari abana babiri bakiri batoya, bareba uko bigenewe.
+--------
+Ref:  Abantu babiri bahagaze ahantu hari za mudasobwa bafite telefoni mu ntoki barimo arazikanda noneho hari ameza agiye ateretseho izo mudasobwa.
+
+Pred: Abantu babiri bahagaze ahantu hari za mudasobwa bafite terefone mu ntoki barimo arazikanda, hano naho hari ameza ari ateetse izo mudasobwa.
+--------
+Ref:  Iyi ngiyi ni ameza bariraho. Aya meza ni meza pe ni umukara, akaba afite n'ibara ribengerana nka zahabu nziza cyane, ituruka mu gihugu cy'abaturanyi.
+
+Pred: Iyi ngiyi ni ameza baririraho, aya meza ni meza pe ni umukara, akaba afite n'ibara ribengerana nkaza ahantu nziza cyane ituruka mu bihugu cy'abaturanye.
+--------
