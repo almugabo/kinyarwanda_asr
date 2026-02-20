@@ -41,7 +41,9 @@ https://ai.meta.com/research/publications/omnilingual-asr-open-source-multilingu
 
 
 
-### (b) fine-tuned from the recent Digital Umuganda Leaderboard 
+### (b) fine-tuned 
+
+#### from the recent Digital Umuganda Leaderboard 
 
 #### 1. w2v-bert-2.0-kinyarwanda-asr (first place Track A) 
 
@@ -56,6 +58,10 @@ used openai/whisper-large-v3 as a base model
 https://github.com/SunbirdAI/kinyarwanda-asr-hackathon/blob/main/whisper_finetuning_kinyarwanda_hackathon.ipynb   
 
 !!! data correction : *we noticed that many of the examples seemed to have the wrong label, i.e. the text transcription seemed to be for a different audio file.*
+
+##### others 
+
+mbazaNLP/Whisper-Small-Kinyarwanda
 
 
 
