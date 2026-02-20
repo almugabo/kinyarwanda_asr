@@ -27,6 +27,20 @@ Antoine Nzeyimana. 2023. Kinspeak: Improving speech recognition for kinyarwanda 
 ([https://arxiv.org/html/2510.01145v1](https://arxiv.org/abs/2308.11863))
 
 
+(3) META - Omnilingual ASR 
+
+a suite of models providing aASR capabilities for more than 1,600 languages
+
+([https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/])
+
+https://github.com/facebookresearch/omnilingual-asr
+
+paper: 
+https://ai.meta.com/research/publications/omnilingual-asr-open-source-multilingual-speech-recognition-for-1600-languages/
+
+
+
+
 ### (b) fine-tuned from the recent Digital Umuganda Leaderboard 
 
 #### 1. w2v-bert-2.0-kinyarwanda-asr (first place Track A) 
